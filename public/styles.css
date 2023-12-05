@@ -1,6 +1,6 @@
 body {
-  background-color: #ebedf1;
-  color: #241e1e;
+  background-color: #2e4a99;
+  color: #fff;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -20,7 +20,7 @@ nav {
 }
 
 a {
-  color: #241e1e;
+  color: #fff;
 }
 
 nav a {
@@ -42,7 +42,7 @@ button {
   margin: 5px;
   cursor: pointer;
   border: 2px solid #fff;
-  background-color: #3f475e;
+  background-color: #2e4a99;
   color: #fff;
   padding: 10px;
   font-size: 16px;
